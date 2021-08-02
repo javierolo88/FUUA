@@ -1,0 +1,4 @@
+import random
+x=3
+t=6
+print ("hola mundo")
